@@ -1,9 +1,15 @@
-1) Primeira linha do meu git. Escrita no bloco de notas, salva com txt
-2) segunda modificacao. Isso eh apenas um teste. Ainda nao tem conotacao tecnica.
-3) terceira modificacao, feita as 6:12 da manha, no dia 04 de marco. Apenas como mais um teste.
-4) quarta modificacao, feita no dia 10 de maio de 2022, as 8:06
-5) quinta modificacacao, feita no dia 10 de maio de 2022, as 19:26
-6) sexta modificacao, feita no dia 10 de maio, de 2022 as 19:58
-7) setima modificacao, feita no dia 10 de maio, de 2022 as 20:22
-8) oitava modificacao, feita em 11 de maio de 2022, as 18:08
-9) nona modificacao, feita em 11 de maio de 2022, as 20:21
+1) Primeira mudanca no arquivo.
+2) Segunda linha, em 10 de maio de 2022, as 8:04
+3) Terceira linha, inserida em 10 de maio de 2022, as 19:26
+4) Quarta linha, inserida em 10 de maio de 2022, as 19:55
+5) Quinta linha, inserida em 10 de maio de 2022, as 20:21
+6) Sexta linha, inserida em 11 de maio de 2022, as 18:05
+7) Setima linha, inserida em 11 de maio de 2022, as 20:20
+
+1) Primeira mudanca no arquivo.
+2) Segunda linha, em 10 de maio de 2022, as 8:04
+3) Terceira linha, inserida em 10 de maio de 2022, as 19:26
+4) Quarta linha, inserida em 10 de maio de 2022, as 19:55
+5) Quinta linha, inserida em 10 de maio de 2022, as 20:21
+6) Sexta linha, inserida em 11 de maio de 2022, as 18:05
+7) Setima linha, inserida em 11 de maio de 2022, as 20:20
